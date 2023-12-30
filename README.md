@@ -51,6 +51,8 @@ print(x)
 
 ## Output:
 ![OUTPUT](<Screenshot 2023-12-30 132504.png>)
+
+
 ![OUTPUT](<Screenshot 2023-12-30 132537.png>)
 
 ## Result:
